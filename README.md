@@ -26,11 +26,20 @@
 
 ```
 
-## Usage
+## Instruction
 
 ```sh
 make
 ```
 
+Ensure to edit the `cert` folder to `certs`
+
 You can use PlatformIO GUI in Visual Studio Code also.
-First step you should run `Build Filesystem Image` then `Upload Filesystem Image` and the finally `Upload and Monitor` your device.
+
+First step you should run
+`Build Filesystem Image`
+then
+`Upload Filesystem Image`
+and the finally
+`Upload and Monitor`
+your device.
